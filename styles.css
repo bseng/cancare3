@@ -29,17 +29,17 @@
 }
 
 .portfolio-logo {
-  background: url(images/logo.png) 50% no-repeat;
+  background: url(images/cancare_logo.png) 25% no-repeat;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 155px;
+  width: 220px;
   margin: auto auto 10px;
 }
 
 .is-compact .portfolio-logo {
   height: 50px;
-  width: 50px;
-  margin-top: 7px;
+  width: 75px;
+  margin-top: 5px;
 }
 
 .portfolio-navigation-row {
